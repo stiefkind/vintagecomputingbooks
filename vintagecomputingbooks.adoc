@@ -97,7 +97,7 @@ _Rolf Dietze, Tatjana Heuser, Jörg Schilling_ +
 *OpenSolaris für Anwender, Administratoren und Rechenzentren* +
 Springer-Verlag Berlin Heidelberg; 2006. +
 _This is the first OpenSolaris book in German and one of the first
-OpenSolaris books worldwide written outside from Sun. +
+OpenSolaris books worldwide written outside from Sun._ +
 opensolaris solaris sun unix +
 Bk01
 
