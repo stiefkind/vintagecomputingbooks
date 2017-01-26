@@ -13,17 +13,17 @@ location of the book.
 
 == About Companies
 
-_Donald M. Hall_+ 
+_Donald M. Hall_ +
 *Generation of Wealth -- The rise of Control Data and how it inspired
-an era of innovation and investment in the Upper Midwest*+ 
-2004+ 
-contro ldata cdc+ 
+an era of innovation and investment in the Upper Midwest* +
+2004 +
+controldata cdc +
 
-_Robert M. Price_+ 
+_Robert M. Price_ + 
 *The Eye for Innovation -- Recognizing Possibilities and Managing the
-Creative Enterprise*+ 
-Yale University Press, New Heaven, London; 2005+ 
-controldata cdc+ 
+Creative Enterprise* + 
+Yale University Press, New Heaven, London; 2005 + 
+controldata cdc + 
 
 
 == About People
