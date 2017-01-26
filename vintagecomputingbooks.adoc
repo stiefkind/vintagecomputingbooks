@@ -16,7 +16,7 @@ location of the book.
 _Donald M. Hall_ +
 *Generation of Wealth -- The rise of Control Data and how it inspired
 an era of innovation and investment in the Upper Midwest* +
-2004 +
+2004. +
 controldata cdc +
 
 _Robert M. Price_ + 
@@ -28,85 +28,115 @@ controldata cdc +
 
 == About People
 
-/James C. Worthy/\\
-*William C. Norris -- Portrait of a Maverick*\\
-1987\\
-/1911-2006; Founder and CEO of Control Data Corp./
+_James C. Worthy_ +
+*William C. Norris -- Portrait of a Maverick* +
+1987. +
+_1911-2006; Founder and CEO of Control Data Corp._ +
 controldata cdc norris
 
 
 == Computer Architecture
 
 
-## Processor Architecture ##
+== Processor Architecture
 
-*Michael J. Flynn*
-**Computer Architecture -- Pipelined And Parallel Processor Design**
-Jones and Bartlett Publishers, Inc.; 1995
+_Michael J. Flynn_ +
+*Computer Architecture -- Pipelined And Parallel Processor Design* +
+Jones and Bartlett Publishers, Inc.; 1995. +
 computerarchitecture pipelining
 
 
 
+== Storage and I/O Subsystems
 
-## Storage and I/O Subsystems ##
-
-
-**Alles über Storage und Backup**
-Linux Magazin Technical Review 03; 2007.
+*Alles über Storage und Backup* +
+Linux Magazin Technical Review 03; 2007. +
 linux storage
 
-*Günter Born*
-**Referenzhandbuch Dateiformate -- Grafik, Text, Datenbanken,
-*Tabellenkalkulation**
-Addison-Wesley Publishing Company; 1991.
-fileformat dateiformat
+_Günter Born_ +
+*Referenzhandbuch Dateiformate -- Grafik, Text, Datenbanken,
+Tabellenkalkulation* +
+Addison-Wesley Publishing Company; 1991. +
+fileformat dateiformat +
+Bk01
+
+_James D. Lyle_ +
+*SBus -- Information, Applications, and Experience* +
+Springer-Verlag New York, Inc.; 1992. +
+sun sbus +
+Bk01
+
+== Protocols and Communication
+
+_Hartmut Hermes_ +
+*Datenaustausch mit EDIFACT -- Produktstammdaten DIN 16561-22 --
+Anwendungshandbuch für Handel und Industrie* +
+Beuth Verlag GmbH, Berlin, Wien, Zürich; 1. Auflage; 1998. +
+edifact
+
+*The Directory of Electronic Mail -- Adressing & Networks* +
+O'Reilly & Associates, Inc., Sebastopol; 2nd edition, 1991. +
+email internet mail +
+Bk01
+
+_Dave Sill_ +
+*The qmail Handbook* +
+Apress; 2002. +
+email mail +
 Bk01
 
 
+== Operating Systems
 
-## Protocols and Communication ##
-
-*Hartmut Hermes*
-**Datenaustausch mit EDIFACT -- Produktstammdaten DIN 16561-22 -- Anwendungshandbuch für Handel und Industrie**
-Beuth Verlag GmbH, Berlin, Wien, Zürich; 1. Auflage; 1998.
-edifact
-
-
-## Operating Systems ##
-
-**Solaris White Album**
-July 2004.
+*Solaris White Album* +
+July 2004. +
 solaris sun unix
 
 
-*Rolf Dietze, Tatjana Heuser, Jörg Schilling*
-**OpenSolaris für Anwender, Administratoren und Rechenzentren**
-Springer-Verlag Berlin Heidelberg; 2006.
-This is the first OpenSolaris book in German and one of the first
-*OpenSolaris books worldwide written outside from Sun.
-opensolaris solaris sun unix
+_Rolf Dietze, Tatjana Heuser, Jörg Schilling_ +
+*OpenSolaris für Anwender, Administratoren und Rechenzentren* +
+Springer-Verlag Berlin Heidelberg; 2006. +
+_This is the first OpenSolaris book in German and one of the first
+OpenSolaris books worldwide written outside from Sun. +
+opensolaris solaris sun unix +
 Bk01
 
-*Nicholas A. Solter, Gerald Jelinek, David Miner*
-**OpenSolaris Bible**
-Wiley Publishing Inc.; 2009.
-opensolaris solaris sun unix
+_Nicholas A. Solter, Gerald Jelinek, David Miner_ +
+*OpenSolaris Bible* +
+Wiley Publishing Inc.; 2009. +
+opensolaris solaris sun unix +
 Bk01
 
-*Jürgen Gulbins*
-**Unix -- Eine Einführung in UNIX, seine Begriffe und seine
-*Kommandos**
-Springer-Verlag Berlin Heidelberg New York Tokyo; 1984.
-unix
+_Jürgen Gulbins_ +
+*Unix -- Eine Einführung in UNIX, seine Begriffe und seine Kommandos* +
+Springer-Verlag Berlin Heidelberg New York Tokyo; 1984. +
+unix +
 Bk01
 
-*Arnold Robbins*
-**Unix in a Nutshell -- Für SVR4 und Solaris 7**
-O'Reilly Verlag GmbH & Co. KG; 3rd ed.; 2000
-unix solaris
+_Arnold Robbins_ +
+*Unix in a Nutshell -- Für SVR4 und Solaris 7* +
+O'Reilly Verlag GmbH & Co. KG; 3rd ed.; 2000 +
+unix solaris +
+Bk01
+
+_Bernd Schäffus_ +
+*Das Betriebssystem OpenVMS -- Einführung und Praxis für Einsteiger
+und Fortgeschrittene* +
+VDI Verlag Düsseldorf; 2nd edition; 1993. +
+openvms vms dec +
+Bk01
+
+_Stephen R. Bourne_ +
+*Das Unix System V* +
+Addison-Wesley Publishing Company; 1988. +
+unix +
 Bk01
 
 
+== Software Engineering and Programming
 
-## Software Engineering and Programming ##
-
+_Linda Lamb & Arnold Robbins_ +
+*Learning the vi Editor* +
+O'Reilly & Associates, Inc, Sebastopol; 6th edition; 1998. +
+vi unix linux +
+Bk01
