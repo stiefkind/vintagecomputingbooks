@@ -1,4 +1,4 @@
-= Vintage Computing Books by Wolfgang ’stiefkind’ Stief
+= Vintage Computing Books
 
 This file is list of the books in my private library regarding vintage
 computing, vintage computer architecture, and some Unix history. It
@@ -13,15 +13,17 @@ location of the book.
 
 == About Companies
 
-*Donald M. Hall*
-**Generation of Wealth -- The rise of Control Data and how it inspired an era of innovation and investment in the Upper Midwest**
-2004
-controldata cdc
+_Donald M. Hall_+ 
+*Generation of Wealth -- The rise of Control Data and how it inspired
+an era of innovation and investment in the Upper Midwest*+ 
+2004+ 
+contro ldata cdc+ 
 
-*Robert M. Price*
-**The Eye for Innovation -- Recognizing Possibilities and Managing the Creative Enterprise**
-Yale University Press, New Heaven, London; 2005
-controldata cdc
+_Robert M. Price_+ 
+*The Eye for Innovation -- Recognizing Possibilities and Managing the
+Creative Enterprise*+ 
+Yale University Press, New Heaven, London; 2005+ 
+controldata cdc+ 
 
 
 == About People
