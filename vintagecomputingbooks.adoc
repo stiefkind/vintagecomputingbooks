@@ -11,6 +11,14 @@ more than one category. Numbers in format *Bk??* refer to the storage
 location of the book.
 
 
+== Computer History (general)
+
+_Paul E. Ceruzzi_ +
+*Eine kleine Geschichte der EDV* +
+mitp-Verlag, Bonn; 2003. +
+vintagecomputing computerhistory +
+Bk01
+
 == About Companies
 
 _Donald M. Hall_ +
@@ -37,6 +45,13 @@ controldata cdc norris
 
 == Computer Architecture
 
+_Kevin Dowd_ +
+*High Performance Computing -- RISC Architectures, Optimization, &
+Benchmarks* +
+O'Reilly & Associates, Inc., Sebastopol; 1993. +
+benchmark performance supercomputer risc supercomputing
+computerarchitecture
+
 
 == Processor Architecture
 
@@ -51,7 +66,8 @@ computerarchitecture pipelining
 
 *Alles über Storage und Backup* +
 Linux Magazin Technical Review 03; 2007. +
-linux storage
+linux storage +
+Bk01
 
 _Günter Born_ +
 *Referenzhandbuch Dateiformate -- Grafik, Text, Datenbanken,
@@ -72,7 +88,8 @@ _Hartmut Hermes_ +
 *Datenaustausch mit EDIFACT -- Produktstammdaten DIN 16561-22 --
 Anwendungshandbuch für Handel und Industrie* +
 Beuth Verlag GmbH, Berlin, Wien, Zürich; 1. Auflage; 1998. +
-edifact
+edifact +
+Bk01
 
 *The Directory of Electronic Mail -- Adressing & Networks* +
 O'Reilly & Associates, Inc., Sebastopol; 2nd edition, 1991. +
@@ -90,7 +107,8 @@ Bk01
 
 *Solaris White Album* +
 July 2004. +
-solaris sun unix
+solaris sun unix +
+Bk01
 
 
 _Rolf Dietze, Tatjana Heuser, Jörg Schilling_ +
@@ -130,6 +148,34 @@ _Stephen R. Bourne_ +
 *Das Unix System V* +
 Addison-Wesley Publishing Company; 1988. +
 unix +
+Bk01
+
+_Wolfgang Mauerer_ +
+*Linux Kernelarchitektur -- Konzepte, Strukturen und Algorithmen von
+Kernel 2.6* +
+Carl Hanser Verlag München Wien; 2004. +
+linux kernel unix +
+Bk01
+
+_Axel-Tobias Schreiner_ +
+*System-Programmierung in UNIX -- Teil 2: Techniken* +
+B. G. Teubner, Stuttgart; 1986. +
+unix systemprogrammierung systemprogramming programmieren +
+Bk01
+
+
+== System Administration
+
+_Gian-Paolo D. Musumeci, Mike Loukides_ +
+*System Performance Tuning* +
+O'Reilly & Associates, Inc., Sebastopol; 2nd edition; 2002. +
+unix performance tuning +
+Bk01
+
+_Thomas A. Limoncelli, Christine Hogan_
+*The Practice of System and Network Administration* +
+Addison-Wesley; 2002. +
+unix admin sysadmin network netzwern +
 Bk01
 
 
