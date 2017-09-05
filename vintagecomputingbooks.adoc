@@ -11,13 +11,92 @@ more than one category. Numbers in format *Bk??* refer to the storage
 location of the book.
 
 
-== Computer History (general)
+== Computer History and Culture (general)
 
 _Paul E. Ceruzzi_ +
 *Eine kleine Geschichte der EDV* +
 mitp-Verlag, Bonn; 2003. +
 vintagecomputing computerhistory +
-Bk01
+
+
+_Robert X. Cringely_ +
+*Wie die Jungs vom Silicon Valley die Milliarden scheffeln, die
+Konkurrenz bekriegen und trotzdem keine Frau bekommen* +
+ECON Taschenbuchverlag GmbH, Düsseldorf, Wien; 1993. +
+siliconvalley startup computerhistory culture +
+
+
+_Günter Myrell (Editor)_ +
+*Daten-Schatten -- Wie die Computer Dein Leben kontrollieren* +
+Rowohlt Taschenbuch Verlag GmbH; Reinbek bei Hamburg; 1984 +
+_In German public-service broadcasting there was a TV documentation
+series on how computers and data processing will influence
+society. The focus was on data security and surveillance of
+people. Reason for this documentary was the German census of 1983,
+which had a very extensive questionnaire, and wich was the first
+census done with extensive electronic data processing. And then it was
+also the year of the book _1984_ by George Orwell._ +
+security dataprocessing +
+
+
+_Tsutomu Shimomura_ +
+*Data Zone -- Die Hackerjagd im Internet* +
+Deutscher Taschenbuch Verlag GmbH & Co. KG; München; 1997 +
+_The book is about hunting Kevin Mitnick. The title of the 1996
+original edition is_ Takedown. +
+hacker mitnick
+
+
+_Katie Hafner, John Markoff_ +
+*Kevin Mitnick der Hacker -- Wie alles anfing* +
+ECON Taschenbuchverlag GmbH; Düsseldorf und Wien; 1995. +
+hacker mitnick cyberpunk +
+
+
+_Clifford Stoll_ +
+*Die Wüste Internet -- Geisterfahrten auf der Datenautobahn* +
+Fischer Taschenbuch Verlag GmbH; Frankfurt am Main; 1998. +
+stoll internet +
+
+
+_Jeff Jarvis_ +
+*Mehr Transparenz wagen -- Wie Facebook, Twitter & Co. die Welt
+erneuern* +
+Quadriga Verlag; Berlin; 2012. +
+
+
+_Katie Hafner, Matthew Lyon_ +
+*Arpa Kadabra -- Die Geschichte des INTERNET* +
+dpunkt.verlag; Heidelberg; 1997. +
+arpanet internet darpa +
+
+
+_Eric S. Raymond_ +
+*The Cathedral & the Bazaar -- Musings on Linux and Open Source by an
+Accidental Revolutionary* +
+O'Reilly & Associates, Inc., Sebastopol; 1999. +
+opensource raymond +
+
+
+_Clifford Stoll_ +
+*LogOut -- Warum Computer nichts im Klassenzimmer zu suchen haben und
+andere High-Tech-Ketzereien* +
+S. Fischer Verlag GmbH, Frankfurt am Main; 2001. +
+
+
+_Martin Rost (Hrsg.)_ +
+*Die Netz-Revolution -- Auf dem Weg in die Weltgesellschaft* +
+Eichborn GmbH & Co. Verlag KG, Frankfurt am Main; 1996. +
+internet +
+
+
+_Armin Medosch, Janko Röttgers (Hrsg.)_ +
+*Netzpiraten -- Die Kultur des elektronischen Verbrechens* +
+Verlag Heinz Heise GmbH & Co. KG, Hannover; 2001. +
+
+
+
+
 
 == About Companies
 
@@ -27,11 +106,55 @@ an era of innovation and investment in the Upper Midwest* +
 2004. +
 controldata cdc +
 
-_Robert M. Price_ + 
+
+_Robert M. Price_ +
 *The Eye for Innovation -- Recognizing Possibilities and Managing the
-Creative Enterprise* + 
-Yale University Press, New Heaven, London; 2005 + 
-controldata cdc + 
+Creative Enterprise* +
+Yale University Press, New Heaven, London; 2005 +
+_Price had several roles at Control Data, mostly sales related. He
+served as president and CEO of Control Data Corporation from 1986 to
+1989._ +
+controldata cdc +
+
+
+_Mark Hall, John Barry_ +
+*Sunburst -- The Ascent of Sun Microsystems* +
+Contemporary Books; Chicago; 1990 +
+sun sparc solaris sunos mcnealy joy koshla bechtolsheim +
+
+
+_Tim Jackson_ +
+*Inside Intel -- Die Geschichte des erfolgreichsten Chip-Produzenten
+der Welt* +
+Hoffmann und Campe Verlag; Hamburg; 1999. +
+intel ic microchip x86 4004 +
+
+
+_Scott McCartney_ +
+*Eniac -- The Triumphs and Tragedies of the World's First Computer* +
+Berkley Publishing Group; New York; 1999. +
+eniac tube tubes +
+
+
+_Nick Bilton_ +
+*Twitter -- Eine wahre Geschichte von Geld, Macht, Freundschaft und
+Verrat* +
+Campus Verlag; Frankfurt/New York; 2013. +
+twitter startup company culture
+
+
+_David E. Lundstrom_ +
+*A Few Good Men From UNIVAC* +
+Replica Books; Bridgewater NJ; 1987. +
+univac
+
+
+_Thomas J. Watson jr., Peter Petre_ +
+*Der Vater, der Sohn & die Firma -- Wie ein Weltkonzern entstand. Die
+IBM-Story* +
+Wilhelm Heyne Verlag München; 1993. +
+ibm watson +
+
 
 
 == About People
@@ -43,6 +166,31 @@ _1911-2006; Founder and CEO of Control Data Corp._ +
 controldata cdc norris
 
 
+_Mike Wilson_ +
+*The Difference Between God and Larry Ellison -- Inside Oracle
+Corporation* +
+William Morrow and Company, Inc.; New York; 1997. +
+_Larry Ellison was founder and CEO of Oracle Corporation._ +
+oracle ellison +
+
+
+_Tom Wolfe_ +
+*Die neue Welt des Robert Noyce -- Eine Pioniergeschichte aus dem
+Silicon Valley* +
+ECON Verlag GmbH; Düsseldorf, Wien und New York; 1990.
+_Robert Noyce is one of the inventors of the integrated circuit, and
+(co-)founded Faircild Semiconductor as well as Intel._ +
+noyce intel fairchild ic +
+
+
+_Sam Williams_ +
+*Free As In Freedom -- Richard Stallman's Crusade for Free Software* +
+O'Reilly & Associates, Inc., Sebastopol; 2002. +
+opensource freesoftware stallman gnu +
+
+
+
+
 == Computer Architecture
 
 _Kevin Dowd_ +
@@ -51,6 +199,19 @@ Benchmarks* +
 O'Reilly & Associates, Inc., Sebastopol; 1993. +
 benchmark performance supercomputer risc supercomputing
 computerarchitecture
+
+_Walter Motsch_ +
+*Prozessrechnerstrukturen -- Aufbau, Betriebssysteme, Kommunikation* +
+Friedrich Vieweg & Sohn Verlagsgesellschaft mbH;
+Braunschweig/Wiesbaden; 1995. +
+prozessrechner automatisierung +
+
+
+_Arthur G. Lippiatt_ +
+*The Architecture of Small Computer Systems* +
+Prentice-Hall International, Inc.; London; 1979. +
+computer architecture arithmetic nova pdp11
+
 
 
 == Processor Architecture
@@ -61,26 +222,48 @@ Jones and Bartlett Publishers, Inc.; 1995. +
 computerarchitecture pipelining
 
 
+_Herv� Tireford_ +
+*Vom Computer zum Mikroprozessor* +
+Motorola Semiconductor Products Inc.; 1975.+
+motorola ic chip microchip cpu
+
+
+_Alan Clements_ +
+*Microprocessor Systems Design -- 68000 Hardware, Software, and
+Interfacing* +
+PWS Publishing Company; Boston MA; 3ed edition; 1997. +
+microprocessor cpu mikrochip 68000 motorola +
+
+
+
+
 
 == Storage and I/O Subsystems
 
 *Alles über Storage und Backup* +
 Linux Magazin Technical Review 03; 2007. +
 linux storage +
-Bk01
+
 
 _Günter Born_ +
 *Referenzhandbuch Dateiformate -- Grafik, Text, Datenbanken,
 Tabellenkalkulation* +
 Addison-Wesley Publishing Company; 1991. +
 fileformat dateiformat +
-Bk01
+
 
 _James D. Lyle_ +
 *SBus -- Information, Applications, and Experience* +
 Springer-Verlag New York, Inc.; 1992. +
 sun sbus +
-Bk01
+
+
+_Gary Field, Peter Ridge, et al_ +
+*The Book of SCSI -- I/O for the new millenium* +
+No Starch Press; San Francisco; 2nd edition; 2000. +
+scsi +
+
+
 
 == Protocols and Communication
 
@@ -89,18 +272,39 @@ _Hartmut Hermes_ +
 Anwendungshandbuch für Handel und Industrie* +
 Beuth Verlag GmbH, Berlin, Wien, Zürich; 1. Auflage; 1998. +
 edifact +
-Bk01
+
 
 *The Directory of Electronic Mail -- Adressing & Networks* +
 O'Reilly & Associates, Inc., Sebastopol; 2nd edition, 1991. +
 email internet mail +
-Bk01
+
 
 _Dave Sill_ +
 *The qmail Handbook* +
 Apress; 2002. +
 email mail +
-Bk01
+
+
+_Ingo Drigalsky_ +
+*Serielle Schnittstellentechnik und Protokollanalyzer-Anwendungen* +
+IWT Verlag GmbH, Vaterstetten bei München; 1991. +
+serial seriell interface schnittstelle +
+
+
+_Austin Lesea, Rodnay Zaks_ +
+*Microprocessor Interface Techniken (Deutsche Ausgabe)* +
+Sybex Inc., Berkeley, Paris; 1977. +
+ad da io serial parallel s100 ieee488 rs232 rs422 rs423 8080 6800 z80
+8085 +
+
+
+_Michael Santifaller_ +
+*TCP/IP und ONC/NFS* +
+Adddison-Wesley (Deutschland) GmbH; 4. aktualisierte und erweiterte
+Auflage; 1995. +
+tcp ip network nfs protocol internet ethernet +
+
+
 
 
 == Operating Systems
@@ -108,7 +312,7 @@ Bk01
 *Solaris White Album* +
 July 2004. +
 solaris sun unix +
-Bk01
+
 
 
 _Rolf Dietze, Tatjana Heuser, Jörg Schilling_ +
@@ -117,51 +321,72 @@ Springer-Verlag Berlin Heidelberg; 2006. +
 _This is the first OpenSolaris book in German and one of the first
 OpenSolaris books worldwide written outside from Sun._ +
 opensolaris solaris sun unix +
-Bk01
+
 
 _Nicholas A. Solter, Gerald Jelinek, David Miner_ +
 *OpenSolaris Bible* +
 Wiley Publishing Inc.; 2009. +
 opensolaris solaris sun unix +
-Bk01
+
 
 _Jürgen Gulbins_ +
 *Unix -- Eine Einführung in UNIX, seine Begriffe und seine Kommandos* +
 Springer-Verlag Berlin Heidelberg New York Tokyo; 1984. +
 unix +
-Bk01
+
 
 _Arnold Robbins_ +
-*Unix in a Nutshell -- Für SVR4 und Solaris 7* +
+*Unix in a Nutshell -- F�r SVR4 und Solaris 7* +
 O'Reilly Verlag GmbH & Co. KG; 3rd ed.; 2000 +
 unix solaris +
-Bk01
 
-_Bernd Schäffus_ +
+
+_Bernd Sch�ffus_ +
 *Das Betriebssystem OpenVMS -- Einführung und Praxis für Einsteiger
 und Fortgeschrittene* +
 VDI Verlag Düsseldorf; 2nd edition; 1993. +
 openvms vms dec +
-Bk01
+
 
 _Stephen R. Bourne_ +
 *Das Unix System V* +
 Addison-Wesley Publishing Company; 1988. +
 unix +
-Bk01
+
 
 _Wolfgang Mauerer_ +
 *Linux Kernelarchitektur -- Konzepte, Strukturen und Algorithmen von
 Kernel 2.6* +
 Carl Hanser Verlag München Wien; 2004. +
 linux kernel unix +
-Bk01
+
 
 _Axel-Tobias Schreiner_ +
 *System-Programmierung in UNIX -- Teil 2: Techniken* +
 B. G. Teubner, Stuttgart; 1986. +
 unix systemprogrammierung systemprogramming programmieren +
-Bk01
+
+
+
+_Jim Mauro, Richard McDougall_ +
+*Solaris Internals -- Core Kernel Components* +
+Sun Microsystems Press; 2001. +
+unix solaris kernel +
+
+
+_Reinhard F��meier_ +
+*Die Schnittstellen von UNIX-Programmen -- Tips zur
+Programm-Organisation unter UNIX* +
+Springer-Verlag; Berlin, Heidelberg, New York; 1991. +
+unix interface +
+
+
+_Fred Bach, Peter Dormann_ +
+*UNIX Tabellenbuch* +
+Carl Hanser Verlag; München, Wien; 1986. +
+unix +
+
+
 
 
 == System Administration
@@ -170,19 +395,72 @@ _Gian-Paolo D. Musumeci, Mike Loukides_ +
 *System Performance Tuning* +
 O'Reilly & Associates, Inc., Sebastopol; 2nd edition; 2002. +
 unix performance tuning +
-Bk01
+
 
 _Thomas A. Limoncelli, Christine Hogan_
 *The Practice of System and Network Administration* +
 Addison-Wesley; 2002. +
 unix admin sysadmin network netzwern +
-Bk01
 
 
-== Software Engineering and Programming
+*Solaris ZFS Administration Guide* +
+Sun Microsystems, Inc., Santa Clara; 2009. +
+solaris opensolaris zfs opensource +
+
+
+_Stefan F�tterling_ +
+*Common Desktop Environment, der Standard UNIX Desktop -- Bedienung,
+Konfiguration, Anwendungsintegration* +
+dpunkt Verlag; Heidelberg; 2001. +
+cde +
+
+
+_Sebastian Hetze, Dirk Hohndel, Martin Müller, Olaf Kirch u. a._ +
+*LinuX Anwenderhandbuch und Leitfaden für die Systemverwaltung* +
+LunetiX Softfair; 3ed extended edition; 1994 +
+linux sysadmin systemadministration +
+
+
+_Erik Foxley_ +
+*Unix für Superuser* +
+Addison-Wesley (Deutschland) GmbH; 1988. +
+unix sysadmin systemadministration +
+
+
+_Sandra Henry-Stocker, Evan R. Marks_ +
+*Solaris Solutions for System Administrators -- Time-Saving Tips,
+Techniques, and Workarounds* +
+John Wiley & Sons, Inc.; 2000. +
+solaris sun unix sysadmin systemadministration +
+
+
+
+
+
+
+== Software Engineering, Computer Science, and Programming
 
 _Linda Lamb & Arnold Robbins_ +
 *Learning the vi Editor* +
 O'Reilly & Associates, Inc, Sebastopol; 6th edition; 1998. +
 vi unix linux +
-Bk01
+
+
+_Alois Schütte_ +
+*Programmieren in OCCAM* +
+Addison-Wesley Verlag (Deutschland) GmbH; Bonn; 1988. +
+occam transputer +
+
+
+_Wolfgang R. Diemer_ +
+*Organisation/EDV* +
+Ferdinand Sch�ningh; Paderborn; 1980. +
+
+
+_L�szl� B�sz�rm�nyi, Jörg Gutknecht, Gustav Pomberger (Editors)_ +
+*The School of Niklaus Wirth -- The Art of Simplicity* +
+dpunkt.verlag GmbH; Heidelberg; 2000. +
+_Niklaus Wirth is problably best known for inventing the programming
+language Pascal. He also created the programming languages Oberon,
+Modula and Modula-2, and the computer system Lilith._ +
+wirth pascal modula oberon lilith ethz +
