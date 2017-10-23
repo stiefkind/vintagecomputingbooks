@@ -7,10 +7,35 @@ sure, if it sits already on some shelf or not. So this list is written
 and updated primarily for myself.
 
 Books can happen to be listed more then once, because they fit into
-more than one category. Numbers in format *Bk??* refer to the storage
+more than one category. Numbers in format *bk??* refer to the storage
 location of the book.
 
 
+== Content
+
+<<history,Computer History and Culture (general)>>
+
+<<companies,About Companies>>
+
+<<people,About People>>
+
+<<comparch,Computer Architecture>>
+
+<<procarch,Processor Architecture>>
+
+<<storage,Storage and I/O Subsystems>>
+
+<<network,Protocols, Communication, and Networks>>
+
+<<os,Operating Systems>>
+
+<<sysadmin,System Administration>>
+
+<<cs,Software Engineering, Computer Science, and Programming>>
+
+
+
+[[history]]
 == Computer History and Culture (general)
 
 _Paul E. Ceruzzi_ +
@@ -22,7 +47,7 @@ vintagecomputing computerhistory +
 _Robert X. Cringely_ +
 *Wie die Jungs vom Silicon Valley die Milliarden scheffeln, die
 Konkurrenz bekriegen und trotzdem keine Frau bekommen* +
-ECON Taschenbuchverlag GmbH, Düsseldorf, Wien; 1993. +
+ECON Taschenbuchverlag GmbH, DÃ¼sseldorf, Wien; 1993. +
 siliconvalley startup computerhistory culture +
 
 
@@ -97,7 +122,7 @@ Verlag Heinz Heise GmbH & Co. KG, Hannover; 2001. +
 
 
 
-
+[[companies]]
 == About Companies
 
 _Donald M. Hall_ +
@@ -157,6 +182,7 @@ ibm watson +
 
 
 
+[[people]]
 == About People
 
 _James C. Worthy_ +
@@ -191,6 +217,7 @@ opensource freesoftware stallman gnu +
 
 
 
+[[comparch]]
 == Computer Architecture
 
 _Kevin Dowd_ +
@@ -214,6 +241,7 @@ computer architecture arithmetic nova pdp11
 
 
 
+[[procarch]]
 == Processor Architecture
 
 _Michael J. Flynn_ +
@@ -222,7 +250,7 @@ Jones and Bartlett Publishers, Inc.; 1995. +
 computerarchitecture pipelining
 
 
-_Herv� Tireford_ +
+_Hervï¿½ Tireford_ +
 *Vom Computer zum Mikroprozessor* +
 Motorola Semiconductor Products Inc.; 1975.+
 motorola ic chip microchip cpu
@@ -238,6 +266,7 @@ microprocessor cpu mikrochip 68000 motorola +
 
 
 
+[[storage]]
 == Storage and I/O Subsystems
 
 *Alles über Storage und Backup* +
@@ -265,7 +294,8 @@ scsi +
 
 
 
-== Protocols and Communication
+[[network]]
+== Protocols, Communication, and Networks
 
 _Hartmut Hermes_ +
 *Datenaustausch mit EDIFACT -- Produktstammdaten DIN 16561-22 --
@@ -306,7 +336,7 @@ tcp ip network nfs protocol internet ethernet +
 
 
 
-
+[[os]]
 == Operating Systems
 
 *Solaris White Album* +
@@ -336,12 +366,12 @@ unix +
 
 
 _Arnold Robbins_ +
-*Unix in a Nutshell -- F�r SVR4 und Solaris 7* +
+*Unix in a Nutshell -- Fï¿½r SVR4 und Solaris 7* +
 O'Reilly Verlag GmbH & Co. KG; 3rd ed.; 2000 +
 unix solaris +
 
 
-_Bernd Sch�ffus_ +
+_Bernd Schï¿½ffus_ +
 *Das Betriebssystem OpenVMS -- Einführung und Praxis für Einsteiger
 und Fortgeschrittene* +
 VDI Verlag Düsseldorf; 2nd edition; 1993. +
@@ -374,7 +404,7 @@ Sun Microsystems Press; 2001. +
 unix solaris kernel +
 
 
-_Reinhard F��meier_ +
+_Reinhard Fï¿½ï¿½meier_ +
 *Die Schnittstellen von UNIX-Programmen -- Tips zur
 Programm-Organisation unter UNIX* +
 Springer-Verlag; Berlin, Heidelberg, New York; 1991. +
@@ -388,7 +418,7 @@ unix +
 
 
 
-
+[[sysadmin]]
 == System Administration
 
 _Gian-Paolo D. Musumeci, Mike Loukides_ +
@@ -397,7 +427,7 @@ O'Reilly & Associates, Inc., Sebastopol; 2nd edition; 2002. +
 unix performance tuning +
 
 
-_Thomas A. Limoncelli, Christine Hogan_
+_Thomas A. Limoncelli, Christine Hogan_ +
 *The Practice of System and Network Administration* +
 Addison-Wesley; 2002. +
 unix admin sysadmin network netzwern +
@@ -408,7 +438,7 @@ Sun Microsystems, Inc., Santa Clara; 2009. +
 solaris opensolaris zfs opensource +
 
 
-_Stefan F�tterling_ +
+_Stefan Fï¿½tterling_ +
 *Common Desktop Environment, der Standard UNIX Desktop -- Bedienung,
 Konfiguration, Anwendungsintegration* +
 dpunkt Verlag; Heidelberg; 2001. +
@@ -437,7 +467,7 @@ solaris sun unix sysadmin systemadministration +
 
 
 
-
+[[cs]]
 == Software Engineering, Computer Science, and Programming
 
 _Linda Lamb & Arnold Robbins_ +
@@ -454,10 +484,10 @@ occam transputer +
 
 _Wolfgang R. Diemer_ +
 *Organisation/EDV* +
-Ferdinand Sch�ningh; Paderborn; 1980. +
+Ferdinand Schöningh; Paderborn; 1980. +
 
 
-_L�szl� B�sz�rm�nyi, Jörg Gutknecht, Gustav Pomberger (Editors)_ +
+_Laszlo Böszörmenyi, Jörg Gutknecht, Gustav Pomberger (Editors)_ +
 *The School of Niklaus Wirth -- The Art of Simplicity* +
 dpunkt.verlag GmbH; Heidelberg; 2000. +
 _Niklaus Wirth is problably best known for inventing the programming
