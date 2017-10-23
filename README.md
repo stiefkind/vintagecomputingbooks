@@ -8,6 +8,6 @@ shelf or not. So this list is written and updated primarily for
 myself.
 
 Books can happen to be listed more then once, because they fit into
-more than one category. Numbers in the format *Bk??* refer to the
+more than one category. Numbers in the format *bk??* refer to the
 storage location of the book.
 
