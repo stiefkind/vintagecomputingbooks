@@ -205,7 +205,7 @@ _Tom Wolfe_ +
 Silicon Valley* +
 ECON Verlag GmbH; Düsseldorf, Wien und New York; 1990.
 _Robert Noyce is one of the inventors of the integrated circuit, and
-(co-)founded Faircild Semiconductor as well as Intel._ +
+(co-)founded Fairchild Semiconductor as well as Intel._ +
 noyce intel fairchild ic +
 
 
@@ -366,9 +366,12 @@ unix +
 
 
 _Arnold Robbins_ +
-*Unix in a Nutshell -- Fï¿½r SVR4 und Solaris 7* +
+*Unix in a Nutshell -- For SVR4 und Solaris 7* +
 O'Reilly Verlag GmbH & Co. KG; 3rd ed.; 2000 +
 unix solaris +
+
+_Daniel Gilly_ +
+*Unix in a Nutshell -- A Desktop Quick Reference for 
 
 
 _Bernd Schï¿½ffus_ +
