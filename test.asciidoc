@@ -49,3 +49,6 @@ served as president and CEO of Control Data Corporation from 1986 to
 controldata cdc +
 
 
+_Some more test and experiment_ +
+*How this might work?* +
+Well, quite nice, to be honest.
