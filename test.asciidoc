@@ -1,0 +1,51 @@
+= Vintage Computing Books
+
+Books can happen to be listed more then once, because they fit into
+more than one category. Numbers in format *bk??* refer to the storage
+location of the book.
+
+
+== Content
+
+<<history,Computer History and Culture (general)>>
+
+<<companies,About Companies>>
+
+
+[[history]]
+== Computer History and Culture (general)
+
+_Robert X. Cringely_ +
+*Wie die Jungs vom Silicon Valley die Milliarden scheffeln, die
+Konkurrenz bekriegen und trotzdem keine Frau bekommen* +
+ECON Taschenbuchverlag GmbH, DÃ¼sseldorf, Wien; 1993. +
+siliconvalley startup computerhistory culture +
+
+
+_Katie Hafner, Matthew Lyon_ +
+*Arpa Kadabra -- Die Geschichte des INTERNET* +
+dpunkt.verlag; Heidelberg; 1997. +
+arpanet internet darpa +
+
+
+
+[[companies]]
+== About Companies
+
+_Donald M. Hall_ +
+*Generation of Wealth -- The rise of Control Data and how it inspired
+an era of innovation and investment in the Upper Midwest* +
+2004. +
+controldata cdc +
+
+
+_Robert M. Price_ +
+*The Eye for Innovation -- Recognizing Possibilities and Managing the
+Creative Enterprise* +
+Yale University Press, New Heaven, London; 2005 +
+_Price had several roles at Control Data, mostly sales related. He
+served as president and CEO of Control Data Corporation from 1986 to
+1989._ +
+controldata cdc +
+
+
